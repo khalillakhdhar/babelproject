@@ -1,4 +1,4 @@
-var arrowfunction =() =>{
-    return "hello world";
-
-}
+var _foo = () => {
+    return "Hello World"
+    };
+    alert(_foo());
